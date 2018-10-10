@@ -1,1 +1,0 @@
-Az eclipse IDEbe feltelepitettem az ObjectAid plugint amivel legeneráltam a feladat által kért diagrammot.
