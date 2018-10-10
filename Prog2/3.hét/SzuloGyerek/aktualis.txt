@@ -1,0 +1,1 @@
+A feladat java verziójával sikerült megoldani a feladatot viszont a c++ verziót még nem sikerült elkészitenem. Dolgozok rajta.

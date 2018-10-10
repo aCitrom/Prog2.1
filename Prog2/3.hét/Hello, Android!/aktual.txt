@@ -1,0 +1,2 @@
+A fejlesztői környezetet előkészitettem, a mobil eszközöm szinkronalizásánál elakadtam. Vissza fogok térni rá.
+UPDATE: Sikerült a telefonom szinronizálni a fejlesztői környezettel.
