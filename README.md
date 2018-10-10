@@ -8,4 +8,4 @@ Jegyzőkönyv
 
 3.hét A harmadik hét feladati közül elkészítettem a BPMN amihez az online elérhető bpmn.io oldalt használtam. Az esettan tanulmányouzását melynél könyvet használtam és a Reverse engineering diagrammot melyet eclipsben készítettem el.
 
-4.hét: A leet chiper programot elkészítettem és az Encoding feladatot is. UPP: Gyakorlati órán sikerült elkészítenem a FullScreen programot melynek forráscsipeteit a java2s.com oldalon találtam, emellett a MandelNagyítót is.
+4.hét: A leet chiper programot elkészítettem és az Encoding feladatot is. UPP: Gyakorlati órán sikerült elkészítenem a FullScreen programot melynek forráscsipeteit a java2s.com oldalon találtam.
