@@ -42,6 +42,7 @@ private static Random rand= new Random();
         if(Chosefrom.length>2) return Chosefrom[ rand.nextInt( (Chosefrom.length-1) )+1 ];
         else return Chosefrom[1];
     }
+    
 
 }
 
