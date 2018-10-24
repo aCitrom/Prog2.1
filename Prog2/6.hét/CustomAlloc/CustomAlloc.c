@@ -49,3 +49,4 @@ public :
     inline bool operator==(Allocator const&) { return true; }
     inline bool operator!=(Allocator const& a) { return !operator==(a); }
 };    //    end of class Allocator
+
