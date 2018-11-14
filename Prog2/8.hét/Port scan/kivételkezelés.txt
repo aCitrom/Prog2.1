@@ -1,0 +1,4 @@
+A kivételkezelés egy programozási mechanizmus, melynek célja a program futását szándékosan vagy nem szándékolt módon megszakító esemény (hiba) vagy utasítás kezelése. Az eseményt magát kivételnek hívjuk. A hagyományos, szekvenciális és strukturált programozási kereteken túlmutató hibakezelésre, valamint magasabb szintű hibadetekcióra, esetleg korrigálásra használható. 
+
+Az említett példán láthatjuk az ábrát mely socket interfészeket külön bontja TCP és UDP szerint.
+Ez több szempont miatt is fontos ugyanis a bizonyos portok csak bizonyos üzeneteket engednek át tehát ez a példa tökéletesen szemlélteti a kivételkezelést.
