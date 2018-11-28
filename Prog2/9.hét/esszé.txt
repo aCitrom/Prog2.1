@@ -1,0 +1,5 @@
+				Képfelismerés, CIFAR-10
+
+A CIFAR-10 adatbázis 60000 32x32 es színes képet tartalmaz 10 előre meghatározott osztályban melyek a következőek: autók, repülők, madarak, macskák, szarvasok, kutyák, lovak, hajók és kamionok.
+A program segítségével saját képeket is fel tud ismerni ha megvannak a megfelelő ismertető jegyei.
+A mesterséges inteligenciát fedezhetünk fel benne hiszen a program megtudja mondani hogy mit lát tehát értelmezni is tudja azt.
