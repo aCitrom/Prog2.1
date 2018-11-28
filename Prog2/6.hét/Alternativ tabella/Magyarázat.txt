@@ -1,0 +1,24 @@
+A compare metódus összehasonlítja a két paramétert, visszatérési értéke negatív egész, nulla, vagy pozitív egész, ha az első paraméter kisebb, egyelő vagy nagyobb, mint a második. Ha valamelyik paraméter helytelen típusú a Comparator számára, a compare metódus ClassCastException-t dob.
+
+A kódban a legvégén találhatjuk meg a függvény meghívását:
+class Csapat implements Comparable<Csapat> {
+
+  protected String nev;
+  protected double ertek;
+
+  public Csapat(String nev, double ertek) {
+    this.nev = nev;
+    this.ertek = ertek;
+  }
+
+  public int compareTo(Csapat csapat) {
+    if (this.ertek < csapat.ertek) {
+      return -1;
+    } else if (this.ertek > csapat.ertek) {
+      return 1;
+    } else {
+      return 0;
+    }
+  }
+
+Itt láthatjuk a fentiekben leírtakat.
