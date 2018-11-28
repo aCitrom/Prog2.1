@@ -1,0 +1,8 @@
+Sscanf deklarációja így néz ki "int sscanf(const char *str, const char *format, ...)"
+A következő paratméterek mint pl az str egy string amely forrás adatot jelöl
+A format pedig szintén egy C string amely specifikusan felveheti [=%[*][width][modifiers]type=] is.
+A sscanf szerepe a carlexer.ll feladatban   std::sscanf(yytext, "<car %d", &m_id);
+					     m_cmd = 1001;
+A fent látható deklarció alapján láthatjuk viszont a % jel funkciója az hogy a sscanf eltárolja az eredményt így az operátor referenciaként is használható.
+
+//Forrás:https://www.tutorialspoint.com/c_standard_library/c_function_sscanf.htm//
